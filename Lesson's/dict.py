@@ -6,3 +6,6 @@ msg = {
 msg.update({'banana': 5})
 
 print(msg)
+
+
+lst = ['Nika Kachibaia', 'Python curse']
